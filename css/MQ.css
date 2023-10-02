@@ -17,6 +17,7 @@ h2 {
     font-family: 'Press Start 2P', cursive;
 }
 
+/* header style */
 header h1 {
     color: black;
     font-size: 25px;
@@ -29,6 +30,7 @@ header img {
     border: 7px solid beige;
 }
 
+/* main start from here */
 main {
     max-width: 800px;
     margin: 0 auto;
